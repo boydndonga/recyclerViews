@@ -22,6 +22,7 @@
                 android:layout_height="wrap_content"
                 android:text="kwanza" />
 
+
             <TextView
                 android:id="@+id/descriptionTextView"
                 android:layout_width="match_parent"
